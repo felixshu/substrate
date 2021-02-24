@@ -1,6 +1,4 @@
 doc
-**target*
 .idea/
-Dockerfile
 .dockerignore
 .local
